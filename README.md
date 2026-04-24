@@ -1,6 +1,6 @@
 # DataWatch 
 
-local console databese for overwatch players and teams
+local console database for overwatch players and teams
 
 ## Trailer
 
